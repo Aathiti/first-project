@@ -1,0 +1,196 @@
+
+.container
+{
+    width: 1200px;
+    margin: 0 auto;
+    
+}
+
+.header{
+    width:auto;
+    position: relative;
+}
+nav{
+    display: flex;
+    /* padding: 2% 6%; */
+    justify-content:space-between;
+    align-items: center;
+}
+.links{
+    display: flex;
+    gap:13px;
+    color: #0f0d0d;
+}
+.navi h3{
+    text-align: left;
+}
+
+#logo{
+    color: #0f0d0d;
+    
+}
+.buttonwrapper{
+    text-align: center;
+}
+    
+
+
+.btn{
+   
+    color: #fff;
+    background-color: black;
+    padding: 12px;
+    text-align: center;
+    
+}
+.imgbox{
+background : url(image/headline-image.jpg);
+height : 400px;
+width : 100%;
+background-size: cover;
+background-position: center;
+
+display : block;
+margin-left: auto;
+margin-right : auto;
+}
+.title{
+    width: 100%;
+    text-align: center;
+}
+.flex1{
+    background-color: bisque;
+    display: flex;
+    text-align: right;
+    margin:20px;
+    
+    
+
+}
+.img{
+
+display: flex;
+padding-top:7px;
+padding-bottom :7px;
+}
+
+
+.para1
+{ 
+    
+    margin-top: 56px;
+    margin-left : 190px;
+    text-align: left;
+}
+.btnn{
+    display: flex;
+    padding:10px;
+    color: #fff;
+    background-color: black;
+    position:relative;
+    
+}
+.thirdbox{
+    padding:6em;
+
+}
+.main
+{ 
+    text-align: center;
+}
+   
+.content
+{ 
+    display:flex;
+    
+}
+.leftcolumn{
+    margin-right: 380px;
+}
+
+
+.rightcolumn{
+    margin-left:380px
+}
+.center{
+    text-align: center;
+}
+.imag{
+   
+    width:400px;
+}
+.flex-direction{
+    background-color: rgb(194, 160, 118);
+    display: flex;
+    flex-direction: row-reverse;
+
+
+}
+ .im{
+display: flex;
+padding-top:7px;
+padding-bottom :7px;
+
+
+} 
+.para2
+{ 
+    margin-top: 56px;
+    margin-left : 190px;
+    text-align: left;
+    
+}
+.bttnn{
+    display: flex;
+    padding:10px;
+    color: #fff;
+    background-color: black;
+    position:relative;
+    
+}
+.box{
+    padding:3em;
+    display:flex;
+    
+}
+
+.images{
+    border-radius:8px;
+    width:300px;
+    height:300px;
+    display: flex;
+    padding-left:80px;
+    padding-top: 2em;
+}
+.testomonials{
+    display:flex;
+    
+}
+.imgs{
+    border-radius:8px;
+    width:300px;
+    height:300px;
+    display: flex;
+    padding-left:80px;
+    padding-top: 2em;
+}
+
+.testomonial{
+    display:flex;
+}
+.section{
+    text-align: center;
+    background-color: antiquewhite;
+}
+.footer{
+    display: flex;
+}
+.col-1{
+    margin-left:100px;
+}
+ .col-2{
+   text-align: right;
+  margin-left:1000px;
+}
+
+
